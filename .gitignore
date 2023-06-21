@@ -1,0 +1,11 @@
+# variables
+*.tfvars
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+
+**/*.cert
+**/*.pem
+**/*.key
