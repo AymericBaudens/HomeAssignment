@@ -9,3 +9,6 @@
 **/*.cert
 **/*.pem
 **/*.key
+*.cert
+*.pem
+*.key
